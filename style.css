@@ -123,6 +123,9 @@
 #package-list-button p{
     
 }
+.package-badge{
+    margin-left: 250px;
+}
 /* Font Apply  */
 .package-section h2{
     font-family: 'Poppins';
