@@ -130,11 +130,10 @@
     font-weight: 600;
     font-size: 38px;
     line-height: 57px;
-    display: flex;
-    align-items: center;
     text-align: center;
     text-transform: capitalize;
     color: #0A0826;
+    margin-bottom: 30px;
 }
 .package-inner-list p{
     font-family: 'Poppins';
@@ -201,6 +200,17 @@
     color: #3F87F5;
 }
                                         /* Feedback Section Start  */
+.feedback-section h2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 57px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #0A0826;
+    margin-bottom: 30px;
+}
 .client-review{
     display: flex;
     gap: 30px;
@@ -222,6 +232,20 @@
     align-items: center;
 }
                                         /* Feedback Section End  */
+                                        /* FAQ Section Start  */
+.faq-section h2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 57px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #0A0826;
+    margin-bottom: 30px;
+}
+                                        /* FAQ Section End  */
+                                        /* Footer Section Start  */
 footer{
     width: 100%;
     height: 300px;
@@ -234,3 +258,5 @@ footer p{
     flex-direction: column;
     gap: 10px;
 }
+                                        /* Footer Section End  */
+
