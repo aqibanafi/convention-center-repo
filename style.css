@@ -241,13 +241,39 @@
     gap: 30px;
     padding: 30px 20px;
 }
-.person-one-para{
+.person-one-para > p{
     text-align: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #6C6C6C;
 }
 .client-name-occu{
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+.client-name-occu-name{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+    color: #0C1920;
+}
+.client-name-occu-dig{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+    color: #747474;
 }
                                         /* Feedback Section End  */
                                         /* FAQ Section Start  */
