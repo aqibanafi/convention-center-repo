@@ -82,3 +82,142 @@
 .toast-body{
     gap: 20px;
 }
+                                    /* Album Section End  */
+                                    /* Package Section Start  */
+
+.package-price{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    color: #231D4F;
+
+}
+.package-title{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33px;
+    color: #231D4F;
+}
+.package-para{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    color: #848199;
+}
+.package-list{
+    gap: 30px;
+}
+.package-inner-list{
+    gap: 10px;
+}
+#package-list-button{
+    padding: 5px 30px;
+    border-radius: 50px;
+}
+#package-list-button p{
+    
+}
+/* Font Apply  */
+.package-section h2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 57px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+    color: #0A0826;
+}
+.package-inner-list p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    color: #848199;
+}
+/* Wedding Plus Font Color Apply  */
+.indiviual-package-wPlus .package-price{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    color: #FFFFFF;
+}
+.indiviual-package-wPlus .package-title{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 33px;
+    color: #FFFFFF;
+}
+.indiviual-package-wPlus .package-para{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    color: #FFFFFF;
+
+}
+.indiviual-package-wPlus p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    color: #FFFFFF;
+
+}
+.indiviual-package-wPlus .fa-square-check{
+    color: #FFFFFF;
+}
+.indiviual-package-wbasic button > p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    color: #3F87F5;
+}
+.indiviual-package-wPlus button > p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    color: #3F87F5;
+}
+                                        /* Feedback Section Start  */
+.client-review{
+    display: flex;
+    gap: 30px;
+}
+.person-one{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    padding: 30px 20px;
+}
+.person-one-para{
+    text-align: center;
+}
+.client-name-occu{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
